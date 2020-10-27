@@ -48,6 +48,11 @@ print("APP eind")
 
 ```
 
+# SN76489 gebruikt in:
+- Sega Mastersystem
+<img src="https://www.alyjameslab.com/img/sms_console.png" width="20%" height="20%">
+
+
 CREDITS:
  - Arduino lib door https://github.com/maxint-rd/mxUnifiedSN76489
  - Micropython-versie Michiel Erasmus en #easylab4kids
